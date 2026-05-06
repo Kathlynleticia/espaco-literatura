@@ -1,4 +1,4 @@
-package projeto.literalura.models;
+package projeto.literatura.models;
 
 import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

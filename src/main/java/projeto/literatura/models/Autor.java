@@ -1,12 +1,10 @@
-package projeto.literalura.models;
+package projeto.literatura.models;
 
 
 import jakarta.persistence.*;
-import jdk.dynalink.linker.LinkerServices;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 @Entity
 @Table(name = "autores")

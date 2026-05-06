@@ -1,4 +1,4 @@
-package projeto.literalura.service;
+package projeto.literatura.service;
 
 public interface IconverteDados {
 

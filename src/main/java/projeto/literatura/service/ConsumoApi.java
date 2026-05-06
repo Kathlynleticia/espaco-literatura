@@ -1,4 +1,4 @@
-package projeto.literalura.service;
+package projeto.literatura.service;
 
 import java.io.IOException;
 import java.net.URI;

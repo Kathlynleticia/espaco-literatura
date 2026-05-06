@@ -1,10 +1,10 @@
-package projeto.literalura.Principal;
+package projeto.literatura.Principal;
 
-import projeto.literalura.models.*;
-import projeto.literalura.repository.AutorRepository;
-import projeto.literalura.repository.LivrosRepository;
-import projeto.literalura.service.ConsumoApi;
-import projeto.literalura.service.ConverteDados;
+import projeto.literatura.models.*;
+import projeto.literatura.repository.AutorRepository;
+import projeto.literatura.repository.LivrosRepository;
+import projeto.literatura.service.ConsumoApi;
+import projeto.literatura.service.ConverteDados;
 
 import java.util.*;
 import java.util.stream.Collectors;

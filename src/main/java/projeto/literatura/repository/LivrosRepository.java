@@ -1,12 +1,9 @@
-package projeto.literalura.repository;
+package projeto.literatura.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.jpa.repository.Query;
-import org.springframework.data.repository.query.Param;
-import projeto.literalura.models.Livros;
+import projeto.literatura.models.Livros;
 
 import java.util.List;
-import java.util.Optional;
 
 public interface LivrosRepository extends JpaRepository<Livros, Long> {
 

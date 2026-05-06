@@ -1,15 +1,15 @@
-package projeto.literalura;
+package projeto.literatura;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import projeto.literalura.Principal.Principal;
-import projeto.literalura.repository.AutorRepository;
-import projeto.literalura.repository.LivrosRepository;
+import projeto.literatura.Principal.Principal;
+import projeto.literatura.repository.AutorRepository;
+import projeto.literatura.repository.LivrosRepository;
 
 @SpringBootApplication
-public class LiteraluraApplication implements CommandLineRunner {
+public class LiteraturaApplication implements CommandLineRunner {
 
 	@Autowired
 	private LivrosRepository repositorio;
@@ -17,7 +17,7 @@ public class LiteraluraApplication implements CommandLineRunner {
 	private AutorRepository autorRepository;
 
 	public static void main(String[] args) {
-		SpringApplication.run(LiteraluraApplication.class, args);
+		SpringApplication.run(LiteraturaApplication.class, args);
 	}
 
 	@Override

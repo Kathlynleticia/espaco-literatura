@@ -1,0 +1,12 @@
+projeto\literatura\repository\LivrosRepository.class
+projeto\literatura\models\ResultadosApi.class
+projeto\literatura\repository\AutorRepository.class
+projeto\literatura\models\Livros.class
+projeto\literatura\models\Autor.class
+projeto\literatura\models\DadosAutor.class
+projeto\literatura\service\ConverteDados.class
+projeto\literatura\Principal\Principal.class
+projeto\literatura\LiteraturaApplication.class
+projeto\literatura\service\IconverteDados.class
+projeto\literatura\models\DadosLivros.class
+projeto\literatura\service\ConsumoApi.class

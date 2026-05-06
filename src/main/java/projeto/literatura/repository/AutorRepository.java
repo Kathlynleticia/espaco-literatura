@@ -1,8 +1,8 @@
-package projeto.literalura.repository;
+package projeto.literatura.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
-import projeto.literalura.models.Autor;
+import projeto.literatura.models.Autor;
 
 import java.util.List;
 
