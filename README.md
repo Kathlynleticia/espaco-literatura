@@ -101,6 +101,22 @@ Recomendado: IntelliJ IDEA
 3. Execute a classe principal
 Rode a classe Main para iniciar o programa.
 
+--- 
+## Demonstração - Execução do Sistema
+<br>
+
+![menu](images/menu.jpg)<br>
+<br>
+![Buscar Livros](images/busca-livro.jpg)<br>
+<br>
+![Listar livros](images/listar-livros.jpg)<br>
+<br>
+![Listar Autores](images/listar-autores.jpg)<br>
+<br>
+![Busca por idioma](images/busca-idioma.jpg)<br>
+
+---
+
 ## Observações
 
 - A aplicação é executada via terminal  
